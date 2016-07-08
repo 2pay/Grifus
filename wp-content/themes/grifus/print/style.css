@@ -1,0 +1,19 @@
+body{font-family:Arial,'Helvetica Neue',Helvetica,sans-serif;line-height:1.5;font-size:14px}h1,h2,h3{margin:25px
+0 13px}h1{font-size:28px}h2{font-size:22px}h3{font-size:19px}.movie-title{text-align:center}.content{display:block;margin:0
+auto 40px;width:800px}.controls{position:fixed;top:0;left:0;right:0;background:#fafafa;overflow:hidden;margin:0;padding:10px
+0;border-bottom:1px solid #ccc;z-index:100}.controls .contols-inner{margin:0
+auto;width:800px}.button{display:inline-block;float:right;background:#dedede;border-radius:2px;padding:3px
+7px;color:#333;font-size:13px;text-decoration:none;margin-left:10px;cursor:pointer}.exit-print{background:#EB5858;color:#fff}.exit-print:hover{background:#EB3131}.print-again,.text-plus,.text-minus,.current-font-size,.remove-undo-all{float:left;margin-left:0;margin-right:10px}.print-again{background:#8BBDE0;color:#fff}.print-again:hover{background:#76B22D}.text-plus:hover,.text-minus:hover{background:#21AABD;color:#fff}.current-font-size{background:#fff;border:1px
+solid #ccc;text-align:center;font-size:12px;cursor:default;display:inline-block;width:auto;max-width:30px;border-radius:2px;padding:3px
+7px;font-size:12px;line-height:1.5}.remove-undo-all{background:#00AFF0;color:#fff;display:none}img{max-width:100%;height:auto}img.center-img{display:block;margin:10px
+auto 25px}.content.no-images
+img{display:none}.dato{width:100%;padding:8px
+0;float:left;border-bottom:solid 1px #ddd}.dato:last-child{margin-bottom:90px}.dato
+.a{float:left;width:220px;font-weight:700}.dato
+.b{float:left;width:580px;color:#9B9B9B}.dato .b
+strong{color:#000;font-size:17px}.hide-elem,img.hide-elem{display:none}.footer{margin:35px
+0 0;margin-bottom:31px;padding:15px;background:#E4E4E4;float:left;width:770px}.printable-content{margin-top:70px}.printable-content .child-elem:hover{background:#FFC7C7;cursor:default;opacity:0.7}span.lema{width:100%;float:left;text-align:center;margin-bottom:15px;color:#9E9E9E}@media
+print{.controls{display:none}.printable-content{margin-top:0}.footer{padding:10px
+0;background:transparent}}.imagen{position:relative;width:100%;min-height:210px}.imagen
+img.cover{width:100%;-webkit-filter:blur(0.5px) brightness(0.8)}.imagen
+img.poster{position:absolute;bottom:10px;right:10px;width:140px;-webkit-box-shadow:0 1px 10px rgba(0, 0, 0, 1);-moz-box-shadow:0 1px 10px rgba(0, 0, 0, 1);box-shadow:0 1px 10px rgba(0, 0, 0, 1)}
